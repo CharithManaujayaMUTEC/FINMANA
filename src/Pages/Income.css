@@ -1,0 +1,6 @@
+.Income{
+    display: flex ;
+    flex-flow: row ;
+    gap: 25px;
+    padding: 20px;
+}

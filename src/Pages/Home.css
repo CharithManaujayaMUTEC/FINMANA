@@ -1,0 +1,13 @@
+.Home{
+     display: flow-root;
+     justify-items: center;
+     gap :20px;
+     background-image : url('./assets/Home1.png');
+     
+     
+}
+
+.button{
+     width: 100px;
+}
+

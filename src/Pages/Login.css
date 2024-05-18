@@ -1,0 +1,12 @@
+.Login{
+        display: flex;
+        flex-flow: row;
+        align-content: center;
+        justify-content: space-evenly;
+        align-items: baseline;
+        height: 60vh;
+        gap: 50px;
+        padding-bottom: 20 px;
+        grid-auto-flow: row;
+      
+}

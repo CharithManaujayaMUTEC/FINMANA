@@ -1,0 +1,16 @@
+.OffCan{
+    justify-items: right;
+    gap: 20px;
+
+}
+.btn{
+    padding-bottom: 20 px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+  }
