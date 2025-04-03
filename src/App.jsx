@@ -1,15 +1,15 @@
-import React from 'react'
+
 import NavBar from './Components/NavBar/NavBar'
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from './Pages/Home';
-import Profile from './Pages/Profile';
-import Login from './Pages/Login';
-import Income from './Pages/income';
-import Expenditure from './Pages/expenditure';
-import Bankbalance from './Pages/Bankbalance';
-import Footer from './Pages/Footer';
+import Home from './Pages/Home.jsx';
+import Profile from './Pages/Profile.jsx';
+import Login from './Pages/Login.jsx';
+import Income from './Pages/income.jsx';
+import Expenditure from './Pages/expenditure.jsx';
+import Bankbalance from './Pages/Bankbalance.jsx';
+import Footer from './Pages/Footer.jsx';
 
 
 
