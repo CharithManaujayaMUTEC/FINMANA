@@ -7,7 +7,7 @@ import { Stack } from 'react-bootstrap';
 
 const Expenditure = () => {
   return (
-    <div className='Income'>
+    <div className='Expenditure'>
       <Stack direction="horizontal"gap={2} className="col-md-auto xs-auto">
       <MyPieChart />
       <form class="row g-4">
