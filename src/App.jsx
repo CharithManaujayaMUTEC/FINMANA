@@ -6,8 +6,8 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home.jsx';
 import Profile from './Pages/Profile.jsx';
 import Login from './Pages/Login.jsx';
-import Income from './Pages/income.jsx';
-import Expenditure from './Pages/expenditure.jsx';
+import Income from './Pages/Income.jsx';
+import Expenditure from './Pages/Expenditure.jsx';
 import Bankbalance from './Pages/Bankbalance.jsx';
 import Footer from './Pages/Footer.jsx';
 
