@@ -1,5 +1,6 @@
 # Step 1: Use Node image for building the app
-FROM node:16 AS build
+FROM node:16-alpine AS build
+
 
 # Set the working directory inside the container
 WORKDIR /app
@@ -20,7 +21,7 @@ RUN npm run build
 FROM nginx:alpine
 
 # Copy the build files from the build step into Nginx
-COPY --from=build /app/build /usr/share/nginx/html
+COPY --from=build /app/dist /usr/share/nginx/html  
 
 # Expose the port that Nginx will use
 EXPOSE 80
