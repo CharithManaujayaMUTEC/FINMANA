@@ -10,7 +10,7 @@ COPY package.json package-lock.json ./
 # Install dependencies
 RUN npm install
 
-# Copy the rest of the frontend application code (Make sure 'FINMANA' exists in your context)
+# Copy the rest of the application code 
 COPY . .
 
 # Build the React app for production
