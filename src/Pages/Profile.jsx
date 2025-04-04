@@ -3,8 +3,8 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import OffCan from '../Components/OffCan/OffCan';
 import { BrowserRouter,Route,Routes } from 'react-router-dom';
-import Income from './income';
-import Expenditure from './expenditure';
+import Income from './Income';
+import Expenditure from './Expenditure';
 import Bankbalance from './Bankbalance';
 import './Profile.css'
 import { Stack } from 'react-bootstrap';
