@@ -5,7 +5,7 @@ import OffCan from "../Components/OffCan/OffCan";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Income from "./income";
 import Expenditure from "./expenditure";
-import Bankbalance from "./Unused/Bankbalance";
+import Bankbalance from "./Bankbalance";
 import "./Profile.css";
 import { Stack } from "react-bootstrap";
 import img1 from "./Img1.jpg";

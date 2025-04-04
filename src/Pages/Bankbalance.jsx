@@ -1,5 +1,5 @@
 import React from "react";
-import Barchart from "../../Components/Chart/Barchart.jsx";
+import Barchart from "../Components/Chart/Barchart.jsx";
 import "./Bankbalance.css";
 
 const Bankbalance = () => {

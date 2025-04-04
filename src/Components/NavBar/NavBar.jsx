@@ -17,6 +17,7 @@ const NavBar = () => {
               <Nav.Link href="/profile">Profile</Nav.Link>
               <Nav.Link href="/income">Income</Nav.Link>
               <Nav.Link href="/expenditure">Expenditure</Nav.Link>
+              <Nav.Link href="/bankbalance">Bank Balance</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
