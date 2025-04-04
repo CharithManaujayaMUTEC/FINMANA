@@ -6,8 +6,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./Pages/Home";
 import Profile from "./Pages/Profile";
 import Login from "./Pages/Login";
-import Income from "./Pages/income";
-import Expenditure from "./Pages/expenditure";
+import Income from "./Pages/Income";
+import Expenditure from "./Pages/Expenditure";
 import Bankbalance from "./Pages/Unused/Bankbalance";
 import Footer from "./Pages/Footer";
 
