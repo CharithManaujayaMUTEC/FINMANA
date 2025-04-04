@@ -9,7 +9,6 @@ import Register from "./Pages/Register";
 import Login from "./Pages/Login";
 import Income from "./Pages/Income";
 import Expenditure from "./Pages/Expenditure";
-import Bankbalance from "./Pages/Unused/Bankbalance";
 import Footer from "./Pages/Footer";
 import Bankbalance from "./Pages/Bankbalance";
 
