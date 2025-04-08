@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: frontend:latest  
+          image: manu681/frontend:latest  
           ports:
             - containerPort: 80
           resources:
