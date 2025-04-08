@@ -33,7 +33,7 @@ kind: Service
 metadata:
   name: frontend-service
   namespace: webapps
-  annotations:service.beta.kubernetes.io/aws-load-balancer-name: "LB2"
+  annotations:service.beta.kubernetes.io/aws-load-balancer-name: "LB1"
 spec:
   selector:
     app: frontend
